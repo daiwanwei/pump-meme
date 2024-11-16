@@ -16,3 +16,9 @@ docs/
 
 # Node modules
 node_modules/
+
+## nix-direnv
+.direnv/
+
+
+.vscode
